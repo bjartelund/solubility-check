@@ -1,0 +1,266 @@
+Design Format = 2.0
+Design Type = Reservoir Design
+Design Name = TrypsinHT2
+Design Date = 2007-09-13 15:01:43
+Project Name = Training
+Plate Format = Generic 96 Well
+Comments = For KJE2002
+CrystalTrak Ver. = 2.0.005
+[DESIGN]
+Well,Item,Conc,Units,pH,Chemical,Class
+1,A1,1.5,M,,ammonium sulfate,Salt
+1,A1,0.1,M,5.2,MES,Buffer
+2,A2,0.1,M,5.8,MES,Buffer
+2,A2,1.5,M,,ammonium sulfate,Salt
+3,A3,0.1,M,6.4,MES,Buffer
+3,A3,1.5,M,,ammonium sulfate,Salt
+4,A4,0.1,M,7,MES,Buffer
+4,A4,1.5,M,,ammonium sulfate,Salt
+5,A5,20,w/v,,polyethylene glycol 8000,Polymer
+5,A5,0.1,M,7,imidazole,Buffer
+6,A6,20,w/v,,polyethylene glycol 8000,Polymer
+6,A6,0.1,M,,ammonium sulfate,Salt
+6,A6,0.1,M,7,imidazole,Buffer
+7,A7,20,w/v,,polyethylene glycol 8000,Polymer
+7,A7,0.2,M,,ammonium sulfate,Salt
+7,A7,0.1,M,7,imidazole,Buffer
+8,A8,20,w/v,,polyethylene glycol 8000,Polymer
+8,A8,0.3,M,,ammonium sulfate,Salt
+8,A8,0.1,M,7,imidazole,Buffer
+9,A9,20,w/v,,polyethylene glycol 8000,Polymer
+9,A9,0.1,M,7.5,Tris,Buffer
+10,A10,20,w/v,,polyethylene glycol 8000,Polymer
+10,A10,0.1,M,,ammonium sulfate,Salt
+10,A10,0.1,M,7.5,Tris,Buffer
+11,A11,20,w/v,,polyethylene glycol 8000,Polymer
+11,A11,0.2,M,,ammonium sulfate,Salt
+11,A11,0.1,M,7.5,Tris,Buffer
+12,A12,20,w/v,,polyethylene glycol 8000,Polymer
+12,A12,0.3,M,,ammonium sulfate,Salt
+12,A12,0.1,M,7.5,Tris,Buffer
+13,B1,0.1,M,5.2,MES,Buffer
+13,B1,1.643,M,,ammonium sulfate,Salt
+14,B2,0.1,M,5.8,MES,Buffer
+14,B2,1.643,M,,ammonium sulfate,Salt
+15,B3,0.1,M,6.4,MES,Buffer
+15,B3,1.643,M,,ammonium sulfate,Salt
+16,B4,0.1,M,7,MES,Buffer
+16,B4,1.643,M,,ammonium sulfate,Salt
+17,B5,23.333,w/v,,polyethylene glycol 8000,Polymer
+17,B5,0.1,M,7,imidazole,Buffer
+18,B6,23.333,w/v,,polyethylene glycol 8000,Polymer
+18,B6,0.1,M,,ammonium sulfate,Salt
+18,B6,0.1,M,7,imidazole,Buffer
+19,B7,23.333,w/v,,polyethylene glycol 8000,Polymer
+19,B7,0.2,M,,ammonium sulfate,Salt
+19,B7,0.1,M,7,imidazole,Buffer
+20,B8,23.333,w/v,,polyethylene glycol 8000,Polymer
+20,B8,0.3,M,,ammonium sulfate,Salt
+20,B8,0.1,M,7,imidazole,Buffer
+21,B9,23.333,w/v,,polyethylene glycol 8000,Polymer
+21,B9,0.1,M,7.5,Tris,Buffer
+22,B10,23.333,w/v,,polyethylene glycol 8000,Polymer
+22,B10,0.1,M,,ammonium sulfate,Salt
+22,B10,0.1,M,7.5,Tris,Buffer
+23,B11,23.333,w/v,,polyethylene glycol 8000,Polymer
+23,B11,0.2,M,,ammonium sulfate,Salt
+23,B11,0.1,M,7.5,Tris,Buffer
+24,B12,23.333,w/v,,polyethylene glycol 8000,Polymer
+24,B12,0.3,M,,ammonium sulfate,Salt
+24,B12,0.1,M,7.5,Tris,Buffer
+25,C1,0.1,M,5.2,MES,Buffer
+25,C1,1.786,M,,ammonium sulfate,Salt
+26,C2,0.1,M,5.8,MES,Buffer
+26,C2,1.786,M,,ammonium sulfate,Salt
+27,C3,0.1,M,6.4,MES,Buffer
+27,C3,1.786,M,,ammonium sulfate,Salt
+28,C4,0.1,M,7,MES,Buffer
+28,C4,1.786,M,,ammonium sulfate,Salt
+29,C5,26.667,w/v,,polyethylene glycol 8000,Polymer
+29,C5,0.1,M,7,imidazole,Buffer
+30,C6,26.667,w/v,,polyethylene glycol 8000,Polymer
+30,C6,0.1,M,,ammonium sulfate,Salt
+30,C6,0.1,M,7,imidazole,Buffer
+31,C7,26.667,w/v,,polyethylene glycol 8000,Polymer
+31,C7,0.2,M,,ammonium sulfate,Salt
+31,C7,0.1,M,7,imidazole,Buffer
+32,C8,26.667,w/v,,polyethylene glycol 8000,Polymer
+32,C8,0.3,M,,ammonium sulfate,Salt
+32,C8,0.1,M,7,imidazole,Buffer
+33,C9,26.667,w/v,,polyethylene glycol 8000,Polymer
+33,C9,0.1,M,7.5,Tris,Buffer
+34,C10,26.667,w/v,,polyethylene glycol 8000,Polymer
+34,C10,0.1,M,,ammonium sulfate,Salt
+34,C10,0.1,M,7.5,Tris,Buffer
+35,C11,26.667,w/v,,polyethylene glycol 8000,Polymer
+35,C11,0.2,M,,ammonium sulfate,Salt
+35,C11,0.1,M,7.5,Tris,Buffer
+36,C12,26.667,w/v,,polyethylene glycol 8000,Polymer
+36,C12,0.3,M,,ammonium sulfate,Salt
+36,C12,0.1,M,7.5,Tris,Buffer
+37,D1,0.1,M,5.2,MES,Buffer
+37,D1,1.929,M,,ammonium sulfate,Salt
+38,D2,0.1,M,5.8,MES,Buffer
+38,D2,1.929,M,,ammonium sulfate,Salt
+39,D3,0.1,M,6.4,MES,Buffer
+39,D3,1.929,M,,ammonium sulfate,Salt
+40,D4,0.1,M,7,MES,Buffer
+40,D4,1.929,M,,ammonium sulfate,Salt
+41,D5,30,w/v,,polyethylene glycol 8000,Polymer
+41,D5,0.1,M,7,imidazole,Buffer
+42,D6,30,w/v,,polyethylene glycol 8000,Polymer
+42,D6,0.1,M,,ammonium sulfate,Salt
+42,D6,0.1,M,7,imidazole,Buffer
+43,D7,30,w/v,,polyethylene glycol 8000,Polymer
+43,D7,0.2,M,,ammonium sulfate,Salt
+43,D7,0.1,M,7,imidazole,Buffer
+44,D8,30,w/v,,polyethylene glycol 8000,Polymer
+44,D8,0.3,M,,ammonium sulfate,Salt
+44,D8,0.1,M,7,imidazole,Buffer
+45,D9,30,w/v,,polyethylene glycol 8000,Polymer
+45,D9,0.1,M,7.5,Tris,Buffer
+46,D10,30,w/v,,polyethylene glycol 8000,Polymer
+46,D10,0.1,M,,ammonium sulfate,Salt
+46,D10,0.1,M,7.5,Tris,Buffer
+47,D11,30,w/v,,polyethylene glycol 8000,Polymer
+47,D11,0.2,M,,ammonium sulfate,Salt
+47,D11,0.1,M,7.5,Tris,Buffer
+48,D12,30,w/v,,polyethylene glycol 8000,Polymer
+48,D12,0.3,M,,ammonium sulfate,Salt
+48,D12,0.1,M,7.5,Tris,Buffer
+49,E1,0.1,M,7.2,Tris,Buffer
+49,E1,2.071,M,,ammonium sulfate,Salt
+50,E2,0.1,M,7.73,Tris,Buffer
+50,E2,2.071,M,,ammonium sulfate,Salt
+51,E3,0.1,M,8.27,Tris,Buffer
+51,E3,2.071,M,,ammonium sulfate,Salt
+52,E4,0.1,M,8.8,Tris,Buffer
+52,E4,2.071,M,,ammonium sulfate,Salt
+53,E5,15,w/v,,polyethylene glycol 6000,Polymer
+53,E5,0.1,M,7.5,Tris,Buffer
+54,E6,15,w/v,,polyethylene glycol 6000,Polymer
+54,E6,0.1,M,,ammonium sulfate,Salt
+54,E6,0.1,M,7.5,Tris,Buffer
+55,E7,15,w/v,,polyethylene glycol 6000,Polymer
+55,E7,0.2,M,,ammonium sulfate,Salt
+55,E7,0.1,M,7.5,Tris,Buffer
+55,E7,5,v/v,,2-methyl-2,4-pentanediol,Organic
+56,E8,15,w/v,,polyethylene glycol 6000,Polymer
+56,E8,0.3,M,,ammonium sulfate,Salt
+56,E8,0.1,M,7.5,Tris,Buffer
+57,E9,15,w/v,,polyethylene glycol 6000,Polymer
+57,E9,0.1,M,8.2,Tris,Buffer
+57,E9,5,v/v,,2-methyl-2,4-pentanediol,Organic
+58,E10,15,w/v,,polyethylene glycol 6000,Polymer
+58,E10,0.1,M,,ammonium sulfate,Salt
+58,E10,0.1,M,8.2,Tris,Buffer
+59,E11,15,w/v,,polyethylene glycol 6000,Polymer
+59,E11,0.2,M,,ammonium sulfate,Salt
+59,E11,0.1,M,8.2,Tris,Buffer
+59,E11,5,v/v,,2-methyl-2,4-pentanediol,Organic
+60,E12,15,w/v,,polyethylene glycol 6000,Polymer
+60,E12,0.3,M,,ammonium sulfate,Salt
+60,E12,0.1,M,8.2,Tris,Buffer
+61,F1,0.1,M,7.2,Tris,Buffer
+61,F1,2.214,M,,ammonium sulfate,Salt
+62,F2,0.1,M,7.73,Tris,Buffer
+62,F2,2.214,M,,ammonium sulfate,Salt
+63,F3,0.1,M,8.27,Tris,Buffer
+63,F3,2.214,M,,ammonium sulfate,Salt
+64,F4,0.1,M,8.8,Tris,Buffer
+64,F4,2.214,M,,ammonium sulfate,Salt
+65,F5,20,w/v,,polyethylene glycol 6000,Polymer
+65,F5,0.1,M,7.5,Tris,Buffer
+66,F6,20,w/v,,polyethylene glycol 6000,Polymer
+66,F6,0.1,M,,ammonium sulfate,Salt
+66,F6,0.1,M,7.5,Tris,Buffer
+66,F6,5,v/v,,2-methyl-2,4-pentanediol,Organic
+67,F7,20,w/v,,polyethylene glycol 6000,Polymer
+67,F7,0.2,M,,ammonium sulfate,Salt
+67,F7,0.1,M,7.5,Tris,Buffer
+68,F8,20,w/v,,polyethylene glycol 6000,Polymer
+68,F8,0.3,M,,ammonium sulfate,Salt
+68,F8,0.1,M,7.5,Tris,Buffer
+68,F8,5,v/v,,2-methyl-2,4-pentanediol,Organic
+69,F9,20,w/v,,polyethylene glycol 6000,Polymer
+69,F9,0.1,M,8.2,Tris,Buffer
+70,F10,20,w/v,,polyethylene glycol 6000,Polymer
+70,F10,0.1,M,,ammonium sulfate,Salt
+70,F10,0.1,M,8.2,Tris,Buffer
+70,F10,5,v/v,,2-methyl-2,4-pentanediol,Organic
+71,F11,20,w/v,,polyethylene glycol 6000,Polymer
+71,F11,0.2,M,,ammonium sulfate,Salt
+71,F11,0.1,M,8.2,Tris,Buffer
+72,F12,20,w/v,,polyethylene glycol 6000,Polymer
+72,F12,0.3,M,,ammonium sulfate,Salt
+72,F12,0.1,M,8.2,Tris,Buffer
+72,F12,5,v/v,,2-methyl-2,4-pentanediol,Organic
+73,G1,0.1,M,7.2,Tris,Buffer
+73,G1,2.357,M,,ammonium sulfate,Salt
+74,G2,0.1,M,7.73,Tris,Buffer
+74,G2,2.357,M,,ammonium sulfate,Salt
+75,G3,0.1,M,8.27,Tris,Buffer
+75,G3,2.357,M,,ammonium sulfate,Salt
+76,G4,0.1,M,8.8,Tris,Buffer
+76,G4,2.357,M,,ammonium sulfate,Salt
+77,G5,25,w/v,,polyethylene glycol 6000,Polymer
+77,G5,0.1,M,7.5,Tris,Buffer
+78,G6,25,w/v,,polyethylene glycol 6000,Polymer
+78,G6,0.1,M,,ammonium sulfate,Salt
+78,G6,0.1,M,7.5,Tris,Buffer
+79,G7,25,w/v,,polyethylene glycol 6000,Polymer
+79,G7,0.2,M,,ammonium sulfate,Salt
+79,G7,0.1,M,7.5,Tris,Buffer
+79,G7,5,v/v,,2-methyl-2,4-pentanediol,Organic
+80,G8,25,w/v,,polyethylene glycol 6000,Polymer
+80,G8,0.3,M,,ammonium sulfate,Salt
+80,G8,0.1,M,7.5,Tris,Buffer
+81,G9,25,w/v,,polyethylene glycol 6000,Polymer
+81,G9,0.1,M,8.2,Tris,Buffer
+81,G9,5,v/v,,2-methyl-2,4-pentanediol,Organic
+82,G10,25,w/v,,polyethylene glycol 6000,Polymer
+82,G10,0.1,M,,ammonium sulfate,Salt
+82,G10,0.1,M,8.2,Tris,Buffer
+83,G11,25,w/v,,polyethylene glycol 6000,Polymer
+83,G11,0.2,M,,ammonium sulfate,Salt
+83,G11,0.1,M,8.2,Tris,Buffer
+83,G11,5,v/v,,2-methyl-2,4-pentanediol,Organic
+84,G12,25,w/v,,polyethylene glycol 6000,Polymer
+84,G12,0.3,M,,ammonium sulfate,Salt
+84,G12,0.1,M,8.2,Tris,Buffer
+85,H1,0.1,M,7.2,Tris,Buffer
+85,H1,2.5,M,,ammonium sulfate,Salt
+86,H2,0.1,M,7.73,Tris,Buffer
+86,H2,2.5,M,,ammonium sulfate,Salt
+87,H3,0.1,M,8.27,Tris,Buffer
+87,H3,2.5,M,,ammonium sulfate,Salt
+88,H4,0.1,M,8.8,Tris,Buffer
+88,H4,2.5,M,,ammonium sulfate,Salt
+89,H5,30,w/v,,polyethylene glycol 6000,Polymer
+89,H5,0.1,M,7.5,Tris,Buffer
+90,H6,30,w/v,,polyethylene glycol 6000,Polymer
+90,H6,0.1,M,,ammonium sulfate,Salt
+90,H6,0.1,M,7.5,Tris,Buffer
+90,H6,5,v/v,,2-methyl-2,4-pentanediol,Organic
+91,H7,30,w/v,,polyethylene glycol 6000,Polymer
+91,H7,0.2,M,,ammonium sulfate,Salt
+91,H7,0.1,M,7.5,Tris,Buffer
+92,H8,30,w/v,,polyethylene glycol 6000,Polymer
+92,H8,0.3,M,,ammonium sulfate,Salt
+92,H8,0.1,M,7.5,Tris,Buffer
+92,H8,5,v/v,,2-methyl-2,4-pentanediol,Organic
+93,H9,30,w/v,,polyethylene glycol 6000,Polymer
+93,H9,0.1,M,8.2,Tris,Buffer
+94,H10,30,w/v,,polyethylene glycol 6000,Polymer
+94,H10,0.1,M,,ammonium sulfate,Salt
+94,H10,0.1,M,8.2,Tris,Buffer
+94,H10,5,v/v,,2-methyl-2,4-pentanediol,Organic
+95,H11,30,w/v,,polyethylene glycol 6000,Polymer
+95,H11,0.2,M,,ammonium sulfate,Salt
+95,H11,0.1,M,8.2,Tris,Buffer
+96,H12,30,w/v,,polyethylene glycol 6000,Polymer
+96,H12,0.3,M,,ammonium sulfate,Salt
+96,H12,0.1,M,8.2,Tris,Buffer
+96,H12,5,v/v,,2-methyl-2,4-pentanediol,Organic
+
+Copyright © = 2002-2006 Rigaku Automation, Inc.
